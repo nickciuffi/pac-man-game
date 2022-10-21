@@ -1,5 +1,5 @@
 # pac-man-game
-A classic pac-man game made with C#. <br>
+A classic pac-man game made with Java. <br>
 In order to make the ghosts smart, I had to create a very nice and complex AI. <br>
 All the code was designed by me ans all the images were drawn by me.
 
